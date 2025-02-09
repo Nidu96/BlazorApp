@@ -1,0 +1,11 @@
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\bin\Debug\net5.0\BlazorApp.Shared.deps.json
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\bin\Debug\net5.0\BlazorApp.Shared.dll
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\bin\Debug\net5.0\ref\BlazorApp.Shared.dll
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\bin\Debug\net5.0\BlazorApp.Shared.pdb
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\obj\Debug\net5.0\BlazorApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\obj\Debug\net5.0\BlazorApp.Shared.AssemblyInfoInputs.cache
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\obj\Debug\net5.0\BlazorApp.Shared.AssemblyInfo.cs
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\obj\Debug\net5.0\BlazorApp.Shared.csproj.CoreCompileInputs.cache
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\obj\Debug\net5.0\BlazorApp.Shared.dll
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\obj\Debug\net5.0\ref\BlazorApp.Shared.dll
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Shared\obj\Debug\net5.0\BlazorApp.Shared.pdb

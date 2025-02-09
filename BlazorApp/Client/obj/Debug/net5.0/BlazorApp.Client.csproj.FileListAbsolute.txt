@@ -649,3 +649,5 @@ D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Client\obj\Debug\net5.0\BlazorApp.Clie
 D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Client\obj\Debug\net5.0\BlazorApp.Client.dll
 D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Client\obj\Debug\net5.0\ref\BlazorApp.Client.dll
 D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Client\obj\Debug\net5.0\BlazorApp.Client.pdb
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Client\obj\Debug\net5.0\RazorDeclaration\Pages\RedirectToLogin.razor.g.cs
+D:\Nidu\AtLink\Blazor\BlazorApp\BlazorApp\Client\obj\Debug\net5.0\Razor\Pages\RedirectToLogin.razor.g.cs
